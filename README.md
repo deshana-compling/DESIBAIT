@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Engagement bait comments—like "Legends watching in 2026", "Maa ki lambi umar ke liye like karo", and "5 minute wali gang?" flood YouTube comment sections. While not harmful like spam, these comments drown out genuine feedback, questions, and discussions. The existing "Top" and "Newest" filters fail to detect them, making it difficult for creators and audiences to find meaningful engagement.
+Engagement bait comments like "Legends watching in 2026", "Maa ki lambi umar ke liye like karo", and "5 minute wali gang?" flood YouTube comment sections. While not harmful like spam, these comments drown out genuine feedback, questions, and discussions. The existing "Top" and "Newest" filters fail to detect them, making it difficult for creators and audiences to find meaningful engagement.
 This project builds a system to detect engagement bait in South Asian YouTube comments, with a focus on **Hinglish** (Hindi written in Latin script), a major challenge for existing English-centric filters.
 
 ## Dataset
